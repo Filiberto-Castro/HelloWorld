@@ -17,7 +17,7 @@ public class ToastActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_toast);
 
-        countValue = (TextView) findViewById(R.id.count_initial_value);
+        countValue = (TextView) findViewById(R.id.show_count);
     }
 
     public void showToast(View view) {

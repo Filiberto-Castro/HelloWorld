@@ -35,7 +35,7 @@
         app:layout_constraintStart_toStartOf="parent" />
 
     <TextView
-        android:id="@+id/count_initial_value"
+        android:id="@+id/show_count"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="0"
