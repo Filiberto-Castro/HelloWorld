@@ -1,4 +1,4 @@
-package com.zerocode.helloworld;
+package com.zerocode.HelloConstraint;
 
 import org.junit.Test;
 
